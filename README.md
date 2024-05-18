@@ -8,4 +8,4 @@ This is a classifier that classifies math problems into 5 categories (Algebra, C
 
 - If you find any bugs or have suggestions, please let me know!
 
-- Have fun!
+Have fun!
